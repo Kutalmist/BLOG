@@ -1,0 +1,9 @@
+
+  li:hover{
+    color:white;
+    transition-duration: 1s;
+    cursor: pointer;
+  }
+  :target {
+    color: white;
+  }

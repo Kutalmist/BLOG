@@ -1,0 +1,32 @@
+.home-page {
+  width: 85%;
+  top: 15%;
+  height: 100vh;
+  position: fixed;
+}
+.profil-desc {
+  padding: 0% 20%;
+  margin-top: 2%;
+}
+.profil-name {
+  font-size: 2rem;
+  margin-top: 1%;
+}
+.profil-statu {
+  color: #c1c0c0;
+}
+.profil-img{
+    margin: auto;
+}
+.profil-speeddial{
+    top:2rem;
+}
+.profil-liked{
+  color:#1976d2;
+}
+.profil-nliked{
+  color:white;
+}
+.home-container {
+  text-align: center;
+}
